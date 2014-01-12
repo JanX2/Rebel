@@ -6,8 +6,14 @@ This framework is very much a work in progress at the moment, and should be cons
 
 ## Getting Started
 
-To start building the framework, clone this repository and then run `script/bootstrap`.
+To start building the framework, clone this repository, install `xctool` and then run `script/bootstrap`. 
 This will automatically pull down any dependencies.
+
+To install `xctool` using homebrew:
+
+    brew update
+    brew install xctool
+
 
 ## License
 
